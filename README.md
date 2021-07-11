@@ -30,15 +30,15 @@ sqlalchemy <br/>
 ### Architecture :
 Using U-net architecture to keep the features from every layers and prevent losin on any content information. <br/>
 The network structure are shown below:
-<img src="./img/d1.jpg">
+<img src="./img/d1.JPG">
 
 ### Training method:
 Using COCO2017 image dataset, resize to 256*256, the decolorized version of it will be the input to the training model and the result will be compared with the original colourful image's pixels.
 
 ## Result
 The training result's accuracy over period if shown below:
-<img src="./img/r0.jpg">
+<img src="./img/r0.JPG">
 
 ## Outputs
 The output from the system:
-<img src="./img/r1.jpg">
+<img src="./img/r1.JPG">
