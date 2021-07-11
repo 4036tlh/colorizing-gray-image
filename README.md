@@ -38,6 +38,8 @@ Using COCO2017 image dataset, resize to 256*256, the decolorized version of it w
 ## Result
 The training result's accuracy over period if shown below:
 <img src="./img/r0.JPG">
+The training result's loss over period if shown below:
+<img src="./img/r2.JPG">
 
 ## Outputs
 The output from the system:
